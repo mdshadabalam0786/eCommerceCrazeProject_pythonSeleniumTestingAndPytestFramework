@@ -10,7 +10,7 @@ class creditCard:
        sleep(10)
        now = datetime.now()
        self.driver.get_screenshot_as_file(f"D:\scapper\ShoppersStackProject1\Screenshortfolder\EndToEndCreditCardPayment\Validlogin{now.second}.png")
-      
+       print("=====================")
        self.driver.find_element('xpath','(//button[@id="addToCart"])[3]').click()
        sleep(10)
        now = datetime.now()
