@@ -1,0 +1,14 @@
+[
+  "test/test_EndToEndTestingPaymentUsingDebitCard.py::test_DebitCardPayment",
+  "test/test_EndToEndTestingPaymentUsingNetbanking.py::test_netBanking",
+  "test/test_Wishlist.py::test_Addwishlist",
+  "test/test_login.py::test_login",
+  "test/test_login.py::test_login1",
+  "test/test_loginFiveDifferenctCredential.py::test_LoginDifferentCredential",
+  "test/test_register.py::test_shopperRegister",
+  "test_login.py::TestNewDummyProject::test_login",
+  "test_login.py::test_login",
+  "test_login.py::test_login1",
+  "test_register.py::TestRegister::test_shopperRegister",
+  "test_register.py::test_shopperRegister"
+]

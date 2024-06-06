@@ -1,0 +1,6 @@
+{
+  "test_register.py::TestRegister::test_shopperRegister": true,
+  "test_login.py::test_login1": true,
+  "test_login.py::test_login": true,
+  "test/test_login.py::test_login1": true
+}
