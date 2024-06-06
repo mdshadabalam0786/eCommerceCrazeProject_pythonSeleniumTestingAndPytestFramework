@@ -1,0 +1,9 @@
+Package                        Version
+------------------------------ -----------
+
+openpyxl                       3.1.2
+pytest                         8.2.0
+pytest-dependency              0.6.0
+pytest-html                    4.1.1
+selenium                       4.18.1
+python                         3.11.9
