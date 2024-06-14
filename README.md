@@ -10,12 +10,11 @@ pytest-xdist                   3.6.1
 selenium                       4.18.1
 xlrd                           2.0.1
 
-conftext.py is all about pre-condition which passing the driver by fixture where score as "function" to the every test_function as a argument and run the script on stage or test environment,
+(1)conftext.py is all about pre-condition which passing the driver by fixture where score as "function" to the every test_function as a argument and run the script on stage or test environment,
 and run on the crome browser or edge browser
-
-Pages folder kept all pom pages 
-Test folder kept all test_Script
-Lib folder kept actual selenium wrapper function where actual calling to the sendkeys and click element
-Screenshort folder take all the screen short
-Report folder kept all the generate roprt into the same directory
-Data folder kept all the data into excel sheet
+(2)Pages folder kept all pom pages 
+(3)Test folder kept all test_Script
+(4)Lib folder kept actual selenium wrapper function where actual calling to the sendkeys and click element
+(5)Screenshort folder take all the screen short
+(6)Report folder kept all the generate roprt into the same directory
+(7)Data folder kept all the data into excel sheet
